@@ -31,6 +31,9 @@ Recommendations to increase house value before listing:
 2. Upgrading your kitchen is another viable option.
 3. Some of the stronger factors that impact sale prices (built-up area, garage size) may be costly and time consuming to pursue. May not be worth your while.
 
+### Future Direction
+Track if the use of the insights above help agents not just in fair valuation and increasing value of properties but also in closing their clients as well. In some instances, selling price is not the only target. Closing is as important.
+
 ### Data
 Two datasets,`train` and `test`, are obtained from the Ames Assessor's Office and provided for analysis and modelling. Both datasets are a record of sales for residential properties sold in Ames, Iowa from 2006 to 2010.
 * [`train.csv`](./data/train.csv): Contains both features and target
